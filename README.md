@@ -2,4 +2,4 @@
 Proyecto 1 Santander EMTECH
 
 
-Actualmente el programa solo resuelve las consultas "Top ventas" y "Top busquedas" del dataset "lifestore"  en python
+Actualmente el programa solo resuelve las consultas "Top ventas" y "Top búsquedas" del dataset "lifestore"  en python
